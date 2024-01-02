@@ -6,7 +6,7 @@ This project demonstrates the implementation of an ETL (Extract, Transform, Load
 - [Docker](https://www.docker.com/get-started) installed on your machine.
 - [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine.
 - [Fixer](https://fixer.io/) Obtain an API key from Forex API for accessing the data.
-- [Base Tutorial](https://blog.devgenius.io/etl-process-using-airflow-and-docker-226aa5c7a41a) refrence tutorial
+- [Base Tutorial](https://blog.devgenius.io/etl-process-using-airflow-and-docker-226aa5c7a41a) reference tutorial
 
 ## Setup
 1. Clone the repository:
